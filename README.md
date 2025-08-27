@@ -19,8 +19,6 @@ Open and Closed Parties - Open allows any member to invite
 
 Team Ui with teammates, distance, direction, and status
 
-(arrow is buggy and being updated)
-
 
 
 NOTICE
